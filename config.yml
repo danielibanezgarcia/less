@@ -1,0 +1,28 @@
+lang: es
+freeling_data_dir: /usr/local/share/freeling
+morph_generator_config_path: data/morph/morphological_generator_config.dat
+ngrams_dir: data/ngrams
+horn:
+  lex_mturk_file: data/horn/lex.mturk.es.txt
+  candidates_file: data/horn/results/ConMuTeS_candidates.txt
+  scores_file: data/horn/results/ConMuTeS_scores.txt
+spacy:
+  corpora:
+    es: es_core_news_lg
+  numeric_labels:
+    - TIME
+    - DATE
+    - PERCENT
+    - QUANTITY
+    - MONEY
+    - ORDINAL
+    - CARDINAL
+max_initial_candidates: 30
+max_context_window: 5
+embeddings_config:
+  model_path: data/embeddings/cc.es.300.vec
+scorers:
+  - cosine_similarity
+  - context_similarity
+  - fluency
+  - frequency

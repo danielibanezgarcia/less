@@ -1,0 +1,30 @@
+
+n-best:    1
+Precision: 0.3648
+Accuracy:  0.3648
+Changed:   1.0000
+
+n-best:    2
+Precision: 0.5039
+Accuracy:  0.5039
+Changed:   1.0000
+
+n-best:    3
+Precision: 0.5932
+Accuracy:  0.5932
+Changed:   1.0000
+
+n-best:    4
+Precision: 0.6457
+Accuracy:  0.6457
+Changed:   1.0000
+
+n-best:    5
+Precision: 0.6877
+Accuracy:  0.6877
+Changed:   1.0000
+
+n-best:    10
+Precision: 0.7690
+Accuracy:  0.7690
+Changed:   1.0000

@@ -1,0 +1,5 @@
+ - Disk Size:    17212.81 MB
+ - CPU Size:     12505.00 MB
+ - GPU Size:     1530.00 MB
+ - Load Time:    0:03:38 secs
+ - Process Time: 0:02:24 secs

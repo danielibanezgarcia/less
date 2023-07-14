@@ -1,0 +1,381 @@
+nacional	popular	argentino	musical	chileno	mexicano	tradicional	clásico	uruguayo	histórico	contemporáneo	[UNK]	peruano	infantil	músico	español	colombiano	cultural	pionero	instrumental
+ganarse	construir	hacerse	establecer	ganar	crear	consolidar	tener	darse	conseguir	cultivar	comprar	asegurarse	formar	conquistar	hacer	generar	adquirir	obtener	establecerse	crecer	desarrollar	alcanzar
+debates	análisis	entrevistas	programas	emisiones	noticias	crónicas	informativos	concursos	publicidad	encuestas	series	seminarios	deportes	visitas	espectáculos	campañas	exposiciones	chistes	conferencias
+supuesto	permitido	facilitado	motivado	causado	generado	impulsado	determinado	acelerado	significado	traído	contribuido	garantizado	retrasado	marcado
+caída	victoria	derrota	disolución	pérdida	muerte	continuación	ruina	destrucción	extinción	expansión	quiebra	desaparición	conclusión	degradación	consolidación	crisis	propagación	continuidad	restauración
+nuevo	actual	retirado	constituido	antiguo	fallecido	desaparecido	existente	extin	ex	fundado	activo	viejo	mismo	último	dominante	propio	popular	famoso
+edificios	campos	inmuebles	caminos	pastos	terrenos	lugares	hogares	pueblos	poblados	servicios	locales	materiales	barrios	cultivos	espacios	almacenes	montes	habitantes
+principios	fundamentos	teorías	ideas	bases	hipótesis	resultados	tesis	temas	contenidos	propuestas	conclusiones	desarrollos	trabajos	conceptos	argumentos	enunciados	creencias	afirmaciones	métodos	supuestos	preceptos
+conocido	famoso	popular	recordado	notable	reconocido	famosa	destacado	habitual	caracterizado	destacando	distinguido	denominado	destaca	conocida	,	especializado	destacó	principalmente
+movilización	financiación	organización	creación	obtención	administración	utilización	campaña	donación	aportación	entrega	distribución	gestión	búsqueda	generación	realización	promoción	consecución	reunión	petición	asignación
+pueblo	barrio	distrito	comunidad	área	poblado	incorporado	lugar	asociado	localidad	rancho	puesto	condado	asentamiento	barrios	villa	población	anexo	congregación	ciudad	concejo
+desaparecida	última	antigua	desaparecido	ex	entonces	vieja	nueva	anterior	actual	llamada	reciente	histórica	segunda	primera	Antigua	disu	propia	primitiva	[UNK]	II	mencionada
+tenía	poseía	posee	presentaba	tendría	tiene	llevaba	tuvo	contenía	ofrecía	tenia	contiene	presenta	contaba	utilizaba	incluía
+compositor	editor	distribuidor	creador	ejecutivo	productor	colaborador	diseñador	artista	propietario	solista	director	vocalista	voz	promotor	músico	[UNK]
+controlar	utilizar	transmitir	dominar	coordinar	combinar	desarrollar	usar	cambiar	modificar	manipular	activar	potenciar	absorber	transformar	reconocer	aplicar	mejorar
+versión	forma	concepción	organización	variante	representación	imagen	generación	leyenda	vida	historia	etapa	creación	figura	evolución	división	personalidad	extensión	cultura	parte	línea	configuración	producción	estructura	mitología	rama	maquinaria
+pequeño	hospital	[UNK]	nuevo	gimnasio	primer	célebre	colegio	edificio	"	instituto	antiguo	también	famoso	conocido	hotel	histórico	mismo	segundo	cercano	exitoso	el	maravilloso	popular
+plataformas	formaciones	fragmentos	cuevas	bancos	bloques	rocas	colonias	montes	núcleos	arreci	piedras	colinas	grupos	montañas	coral	masas	formación
+equivocado	inútil	herido	enfermo	bien	muerto	molesto	incómodo	loco	ausente	igual	grave	opuesto	distante	débil	borracho	inconsciente
+actual	popular	oficial	literaria	tradicional	moderna	latina	posterior	general	internacional	artística	propia	social	literal	antigua	clásica	original	inicial	formal	técnica	griega
+crítica	social	constructiva	divertida	directa	sencilla	popular	dramática	política	teatral	clásica	[UNK]	literaria	inteligente	musical	histórica	moderna	alegre	democrática	estética	humor	artística	comercial
+explosión	[UNK]	órgano	grito	tango	ritmo	baile	risa	corte	aplauso	toque	coro	escape	silencio	blues	flamenco	chiste	gracias	eco	música
+sinónimo	capaz	símbolo	partidario	acusado	culpable	víctima	signo	considerado	libre	testigo	susceptible	responsable	hora	sujeto	causa	liberado	sospechoso	objeto	declarado	conocido
+original	similar	desconocido	parecido	curioso	genérico	titulado	literario	correspondiente	idéntico	diferente	compuesto	completo	propio	ep	alternativo	mencionado	real	anterior	mismo
+aparición	introducción	estreno	primera	regreso	presentación	entrada	retiro	primero	carrera	participación	presencia	ingreso	confirmación	bautismo	comienzo	último	primer	apariciones	inicio	trabajo	historia	[UNK]	salto
+decían	contaban	hacían	sabían	hablaban	buscaban	decía	dijeron	pensaban	veían	querían	dicen	decías	encontraban
+delimitación	referencia	acuerdo	resolución	señalización	límites	división	frontera	separación	base	reconocimiento	trazado	mapa	coordenadas	defensa	definición	límite	aplicación	identificación	correspondencia	seguridad
+botones	accesorios	hojas	puntas	bandas	placas	motivos	detalles	objetos	espejos	refuerzos	tiras	soportes	capas	elementos	productos
+jugó	comenzó	nació	luchó	destacó	compitió	entró	empezó	surgió	apareció	creció	jugaba	regresó	estrenó
+pueblo	término	ayuntamiento	territorio	localidad	despo	partido	población	concejo	Ayuntamiento	lugar	barrio	puerto	[UNK]	núcleo	local	poblado	distrito	español	también	asentamiento	nombre	político
+escritor	autor	poeta	periodista	actor	intelectual	filósofo	teatro	teatral	pintor	político	protagonista	compositor	guionista	cómico	crítico	personaje	literario	artista
+programa	proyecto	conjunto	espectáculo	tema	catálogo	elenco	material	instrumento	territorio	texto	abanico	acervo	itinerario	escenario	trabajo	[UNK]	formato	recorrido	público	planteamiento	concierto	menú
+fuerza	talento	personalidad	voz	belleza	energía	poder	encanto	fama	visión	entusiasmo	atractivo	potencial	coraje	audiencia	brillo	popularidad	estilo	rostro	peso	maquillaje	actuación	cuerpo	inteligencia	expresión	espíritu	estatura
+brujas	mago	bruja	sacerdote	magia	rey	guerrero	médico	[UNK]	demonio	cirujano	caballero	aprendiz	maestro	doctor	ladrón	vampiro
+reemplazo	complemento	continuación	alternativa	sustitución	corrección	consecuencia	refuerzo	sustituto
+espacio	lugar	grupo	sitio	centro	programa	tema	ambiente	consejo	ámbito	entorno	club	puesto	salón	punto	recinto	congreso	pabellón	rincón	seminario	portal	órgano	local	canal	laboratorio	área	planeta	periódico
+facilite	apoye	permitiera	facilitó	permita	faciliten	ayudara	siguiera
+éxito	pasión	regularidad	entusiasmo	normalidad	alegría	frecuencia	eficacia	energía	seriedad	responsabilidad	interés	convicción	orgullo	cariño	generosidad	fuerza	continuidad	humor
+terraza	casa	plataforma	fachada	bodega	esfera	capilla	superficie	galería	orquesta	casilla	bóveda	mesa	zona	cabina	pantalla	plaza	sala
+caída	extinción	liquidación	muerte	desaparición	abolición	derrota	terminación	división	absorción	separación	supresión	quiebra	decadencia	clausura	restauración	ruptura	constitución
+gobierno	control	dominio	reinado	comando	mandato	mando	patrocinio	derecho	cuidado	cometido	territorio	[UNK]	imperio	liderazgo	amparo	tratado	consejo	poder	cargo	régimen
+educación	enseñanza	escritura	literatura	instrucción	lectura	formación	cultura	comunicación	capacitación	información	sabiduría	iniciación	biblioteca	democracia	comprensión	urbanización	informática	liberación	matemática	Educación	autonomía	vida	concienciación
+adoptando	ocupando	en	tomando	a	ganando	hacia	reconociendo	desarrollando	desempeñando	desde	alcanzando	teniendo	manteniendo
+libertad	independencia	soberanía	integración	cesión	Independencia	dependencia	identidad	igualdad	incorporación	normalización	paz	dominación	determinación	colaboración	federación	separación	unidad	entidad	responsabilidad
+identificación	afirmación	comprensión	creencia	certeza	declaración	noción	aceptación	implicación	determinación	experiencia	reconocimiento	sentimiento	doctrina	fe	firmeza	percepción	demostración	idea	tesis	postura	lógica	entendimiento	compromiso
+convenció	sorprendió	engañó	convencer	,	ayudó	atrajo	habló	engañar	convencido	también	incluso
+grabado	dibujo	canto	dorado	armado	arranque	trazado	corte	pintado	marcado	cortado	detalle	robo	acabado	atado	collar
+comerciante	propietario	editor	vendedor	importador	veterinario	gobernante	exportador	dueño	fabricante	mismo	criado	funcionario	farmacéutico	proveedor	comercio
+entrenado	capturado	contratado	enviado	asesinado	nombrado	asignado	seleccionado	promovido	soldado	destinado	liberado	formado	elegido
+mágico	misterioso	increíble	divino	superior	especial	oscuro	oculto	maravilloso	desconocido	natural	extraño	asombroso	poderoso	fantástico	magia	espiritual	extraordinario	invisible	ilimitado
+cruel	inmortal	trágico	letal	universal	brutal	suicida	noble	fatal	infinito	eterno	supremo	horrible	verdadero	terrible	espantoso	insoportable	vil
+,	temáticas	artísticas	experimentales	musicales	visuales	religiosas	técnicas	históricas	sociales	culturales	[UNK]	orgánicas	políticas
+cantante	actriz	bailarina	modelo	telenovela	adolescente	[UNK]	protagonista	solista	prostituta	profesional	estrella	mujer	actor	artista	niña	directora
+perdón	justicia	tolerancia	silencio	impunidad	compasión	respeto	misericordia	venganza	reparación	piedad	denuncia	reconciliación	firmeza	solidaridad	protección	transparencia	castigo	responsabilidad	inmunidad
+enseñado	inspirado	mostrado	transmitido	dedicado	demostrado	dado	puesto	desarrollado	expuesto	otorgado	legado	confiado	introducido
+dejaba	excluye	representaba	tenía	elimina	odiaba	trataba
+vivido	permanecido	estado	pasado	crecido	cedido	establecido	sido	viajado	transcurrido	venido	quedado	trabajado	tenido	fallecido	muerto	nacido	mantenido	estudiado	cumplido	ido	conocido	sobrevivido
+profesor	maestro	docente	tutor	alumno	técnico	gestor	un	educado	director	filósofo	promotor	médico	profesional	consejero	consultor	compositor	[UNK]	buen	asesor	funcionario
+tienen	posee	tiene	poseen	mantienen	llevan	mantiene	superan	lleva	forman	comparten	poseía	sostienen	conservan	comparte	bate	consiguieron	demuestran
+cayó	derrumb	rompió	destruyó	rompe	explotó	cerró	perdió	terminó	construyó	falló	quiebra
+montón	conjunto	par	puñado	monto	mar	millón	grupo	juego	número	huracán	poco	océano	caos	exceso	universo	recuento	río	mundo	paquete	patrón
+asesinado	santo	muerto	virgen	obispo	cristiano	convertido	profeta	también	prisionero	valiente	santa	mar	guerrero	esclavo	enterrado	,	héroe	aquí	católico	judío	pobre	preso	luchando
+renovado	terminado	cancelado	finalizado	acabado	concluido	vencido	roto	cerrado	abandonado	cortado	suspendido	cumplido
+negociaciones	iniciativas	campañas	reuniones	operaciones	acciones	expediciones	elecciones	actividades	gestiones	ocasiones	maniobras	obras	comisiones	organizaciones	guerras	oportunidades	luchas	manifestaciones	votaciones	pruebas	misiones	batallas
+desplazadas	destruidos	tomadas	perdidas	sometidas
+reyes	gobernantes	sacerdotes	gobernadores	príncipes	habitantes	jefes	dirigentes	[UNK]	señores	reinos	líderes	magistrados	funcionarios	gobiernos	miembros	dioses	centros	pueblos	representantes	poderosos
+autoridad	dominación	soberanía	autonomía	tutela	monarquía	jerarquía	presencia	poder	control	jurisdicción	influencia	superioridad	dominio	dominante	responsabilidad	potencia	posición	domina	suprema	orden	dictadura	prevalencia
+escenario	foco	sitios	objeto	víctimas	testigo	origen	lugares	causa	testigos	víctima	fuente	blanco	escenarios	responsables	resultado	escena	expuestas	afectadas	consecuencia	centro	sitio	capaces	sobrevivientes	zonas
+explosivos	terremotos	sucesivos	eléctricos	adversos	similares	combinados	terremoto	marinos
+cayeron	cayó	construyeron	perdieron	derrumb	colapso	caen	atacaron
+erosión	fractura	colapso	movimiento	desplazamiento	deterioro	compresión	ruptura	levantamiento	polvo	daño	degradación
+población	milicia	infantería	fortaleza	resistencia	columna	defensa	villa	localidad	ocupación	plaza	armada	unidad	presencia	permanencia	fuerza	ciudad	colonia	escuadra	prisión	tropa	reserva	compañía	caballería
+destruido	construido	reemplazado	eliminado	quitado	derrib	abandonado	usado	modificado
+constitución	asamblea	delegación	cámara	historia	ley	autoridad	administración	[UNK]	congreso	Senado	parlamento	población	Asamblea	parlamentaria	Cámara	presidencia	política	convención	audiencia	comisión	capital	votación
+muerte	confirmación	nacimiento	matrimonio	ordenación	boda	bautismo	llegada	nombramiento	conversión	fallecimiento	enlace	elección	corona	cumpleaños	reinado	sucesión	iniciación	fundación	unión
+renuncia	candidatura	cese	acta	protesta	propuesta	baja	relevo	cargo	nombramiento	jubilación	informe	retirada	renovación	oposición	designación	sustitución	intervención	denuncia	mandato
+unió	retiró	integró	agregó	integra	añadió	suma
+acaba	termina	entra	nace	fluye	entró	finaliza	cae	comienza	aparece	baja	rompe	deriva	surge	cruza	queda	sale	está	pasa	inicia	llega	encaja	empieza	parte	recoge	corre
+poetas	agrupaciones	músicos	compositores	grupos	artistas	deportistas	autores	creadores	productores	[UNK]	escritores	bandas	políticos	jóvenes	pintores	conjuntos	artesanos
+representa	significa	es	constituye	representan	tiene	conmemora	fue	será	marca	celebra	representaba	representó	posee	realiza	significan	describe	señala	refleja	define	anuncia	indica	supone	genera	contiene
+apoyo	impulso	ausp	financiamiento	control	liderazgo	respaldo	mandato	amparo	gobierno	modelo	auspicios	desarrollo	diseño	aporte	dominio	soporte	empuje	encabezado	consejo	nombre
+bautizado	trasladado	establecido	regresado	fundado	ubicado	localizado	inaugurado	registrado	realizado	actualizado	reemplazado	movido	promovido
+empresario	hombre	ejecutivo	gigante	pionero	presidente	señor	propietario	rico	líder	industrial	dirigente	rey	historiador	príncipe	trabajador	barón	comerciante	promotor	productor	fundador
+trío	dúo	piano	grupo	resto	[UNK]	álbum	quin	disco	siguiente	segundo	conjunto	coro	equipo	concierto	círculo	solo	triple	noveno	otro
+[UNK]	sucesor	favorito	tema	predecesor	secuela	derivado	segundo	end	versión	deriva	título	single	personaje	contrapartida	continuación	protagonista	favorita	mod	principal
+modelo	diseño	videojuego	aparato	experimento	robot	concepto	juguete	sistema	dispositivo	tipo	juego	caso	ejemplo	invento	vehículo	traje	trabajo	desarrollo	chip
+medieval	alemán	real	religioso	territorial	militar	civil	independiente	libre	espiritual	romano	polaco	católico	húngaro	noble	imperial	soberano	cristiano	unitario	ruso	tradicional	moderno
+golpe	ataque	asalto	choque	[UNK]	levantamiento	bloqueo	embargo	ejército	bombardeo	triunfo	referéndum	gobierno	gol	decreto	giro	cambio	terremoto	asedio	acuerdo	comando
+aumenta	disminuye	reduce	favorece	provoca	genera	incrementa	crece	oculta	demuestra	eleva	explica	amplía	aumente	causa	aumentó
+abandono	incendio	colapso	cierre	levantamiento	declive	bombardeo	deterioro	caída	colaps	desastre	terremoto	fallecimiento	fracaso	descenso	robo	descubrimiento	retiro	desplazamiento
+atrapado	,	ubicado	localizado	colocado	oculto	encerrado	encontrado	contenido	situado	escondido	construido	y	instalado	metido	protegido
+piratas	barcos	marinos	buques	colonos	marineros	ataques	fuertes	soldados	mismos	inmigrantes	pesqueros	submarinos	enemigos	comerciantes
+ciudad	localidad	zona	parroquia	población	región	provincia	isla	cordillera	aldea	chilena	pata	Provincia	villa	bahía	cabecera	estación	fracción	jurisdicción	reducción	altura	superficie	península
+hombre	caballo	águila	toro	animal	escudo	lobo	guerrero	jugador	elefante	cazador	perro	personaje	señor	varón	[UNK]	jefe	león	individuo	patrón	macho	pastor
+edificio	espacio	centro	sistema	parque	sitio	salón	estacionamiento	museo	área	complejo	cuarto	lugar	pabellón	solar	estadio	hotel	generador	uso	apartamento	terminal	recinto
+reconocido	establecido	desarrollado	distinguido	incorporado	organizado	acreditado	estructurado	presentado	caracterizado	destacado	afirmado	mantenido
+registrada	reconocida	presente	certificado	académica	certificación	aprobada	constituida	autorizada	especializada	asociada
+farmacia	bodega	ermita	tienda	cueva	villa	fábrica	estancia	casa	iglesia	cooperativa	finca	capilla	cárcel	cocina	granja	pensión	fuente	galería	plaza	cafetería
+construido	fundado	abierto	abierta	introducido	creado	lanzado	renovado	establecido	fundada	bautizado	finalizado	iniciado	ampliado	diseñado	instalado	cerrado	descubierto
+zona	región	llanura	localidad	provincia	vertiente	categoría	sierra	carretera	tierra	depresión	cordillera	época	partida	cuenca	falda	parte	proximidad	banda	ribera
+originaria	histórica	antigua	nativa	extendida	primitiva	actual	original	sagrada	indígena	genética	familiar	perdida	tradicional	popular	desaparecida	originario
+literal	lógica	explícita	visual	gráfica	real	mágica	histórica	convincente	expresa	literaria	tradicional	romántica	artificial	natural	dramática	simple	retórica
+disparo	tiro	[UNK]	freno	grito	gancho	mensaje	golpe	toque	single	botón	anuncio	aviso	interruptor	fallo	punto	gol	clave	tema	código	timbre	motivo
+é	histórico	literario	cómico	dramático	latino	[UNK]	militar	,	religioso	mágico	medieval	corto	clásico	breve	griego	arqueológico	persa
+mostrando	superando	señalando	indicando	reconociendo	destacando	considerando	atacando	marcando	terminando	celebrando	recordando	tratando
+reconociendo	celebrando	no	destacando	defendiendo	señalando	agradecido	apoyando	recordando	alab	felicitar	y
+campamento	yacimiento	sitio	establecimiento	centro	aeropuerto	puesto	núcleo	poblado	pueblo	grupo	alojamiento	hábitat	templo	emplazamiento	refugio	puerto	municipio	cementerio	comercio	desarrollo	barrio	lugar	hospital
+seleccionado	equipo	combinado	elenco	cuadro	Selección	técnico	luchador	campeón	conjunto	selección	campeonato	deporte	fútbol	club	[UNK]	Equipo	jugador	clásico
+lograr	ganar	alcanzar	obtener	ocupar	disputar	derrotar	capturar	vencer	superar	finalizar	dominar	definir	comprar	sumar	recuperar	recorrer	ser	tener	defender
+impuestos	pagos	reparaciones	honorarios	ventas	compras	donaciones	premios	restitución	[UNK]	entregas	regalos	facturas	comisiones	pago
+vacuno	y	,	bovina	porcina	vacuna
+tomado	ocupado	fundado	ganado	controlado	capturado	conquista	dominado	defendido	cedido	poblado	comprado	adquirido	atacado
+locos	derrotados	asesinados	muertos	rebeldes	[UNK]	perdidos	enemigos	borrachos	expulsados
+religión	intolerancia	cristianismo	ignorancia	culto	fe	socialismo	odio	creencia	terrorismo	propaganda	conspiración	libertad	[UNK]	negación	locura	religiones	racismo	miedo	persecución	ideología
+viejos	pedazos	huérfanos	chatarra	retroceder	polvo	viejo	inútiles	[UNK]	vulnerables	volver	desaparecer	caer	esclavos	perder	inútil	cenizas	retirarse
+nombre	término	apellido	artículo	título	sustantivo	latín	verbo	significado	árabe	epíteto	castellano	plural	[UNK]	municipio	mismo	pueblo	actual	lugar	resto	español	origen
+apoyo	permiso	acuerdo	consentimiento	respaldo	aplauso	auxilio	agrado	mandato	dictamen	asesoramiento	consejo	patrocinio	aprobación	auspicios	aval	estímulo	triunfo
+ambiciones	fronteras	posesiones	posiciones	aspiraciones	armas	reclamaciones	concesiones	demandas	coronas	exigencias	peticiones	propuestas	cuestiones	expectativas	incursiones	tropas
+iluminación	decoración	fachada	arquitectura	construcción	estructura	diseño	organización	señalización	pintura	estética	arreglo	mobiliario	composición	edificación
+personalidades	religiones	figuras	manifestaciones	personas	dioses	de	variantes	principales	mujeres	entidades	creencias	características	[UNK]	modalidades	formas	diosa	cabezas	caras	prácticas	nueve	voces	joyas
+señor	jefe	dueño	alma	guardián	patrón	fundador	comandante	hombre	dios	rey	padre	héroe	camino	primero	maestro	centro	líder	vigilante	corazón	encargado	capitán	final	amo	guarda	nombre
+basa	sostiene	apoya	funda	ubica	desarrolla	apoyan	construye	alimenta	sostienen	mantiene	encuentra	base	genera	generó	constituye	originó
+escritor	poeta	político	científico	intelectual	psiquiatra	crítico	físico	activista	historiador	académico	matemático	artista	profesor	investigador	lógico	autor	pintor	médico	[UNK]	periodista
+conflictos	peleas	enfrentamientos	disputas	tratos	dominio	combates	batallas	combate	relaciones	fe	conflicto	títulos	problemas	éxito	acuerdos	luchas	guerras	encuentros	disputa
+carta	ley	resolución	confirmación	decisión	papa	donación	aprobación	disposición	orden	merced	gracia	sentencia	provisión	delegación	bendición	decreto	patente	declaración	escritura	regla	remisión
+términos	títulos	reinos	dominios	pueblos	condados	municipios	territorios	lugares	campos	derechos	poblados	ayuntamientos	cargos	bienes	condes	valles	privilegios
+luchas	disputas	tensiones	guerras	negociaciones	conversaciones	batallas	peleas	diferencias	combates	conflictos	controversias	divisiones	discusiones	armas
+amplió	transformó	unió	extendió	creó	modificó	organizó
+vivir	sobrevivir	crecer	mantenerse	desaparecer	desarrollarse	alimentar	existir	defenderse	sostener	comer	soportar	recuperarse	continuar	funcionar	reconstruir	escapar	soportarlo
+vivir	quedarse	situarse	desarrollarse	instalar	permanecer	mantenerse	integrarse	casarse	fijarse	fundar	convertirse	sobrevivir	trabajar	reunirse
+incorporó	unió	preparó	integró	metió	registró	presentó	enro	convirtió	comprometió
+entrando	sirviendo	destinado	haciéndolo	ingresó	formando	apoyando	convirtiéndose	quedando	participando	luchando	actuando	partiendo	destacando	integrado	militar
+reúne	reunió	incluía	contenía	organizó	convocó	incluyó	enfrentó
+oficial	capitán	teniente	comandante	sargento	coronel	instructor	inspector	maestro	auxiliar	general	jefe	mayor	profesor	maestra	ayudante	soldado	alumno	piloto	cabo	Teniente
+profesor	director	titular	docente	Dr	rector	decano	investigador	lector	maestro	académico	profesora	Profesor	doctor	alumno	tutor	Rector
+afectados	supervivientes	refugiados	condenados	desplazados	heridos	huérfanos	muertos	daños	afectadas	causados	sobrevivientes	víctimas	producidos	desaparecidos	afectada
+caudal	nacimiento	curso	paso	agua	vertido	salto	embalse	colapso	flujo	accidente	movimiento	levantamiento	empuje	canal	fondo	arrastre	fenómeno
+equipo	sección	flota	selección	formación	unidad	bandera	banda	liga	base	plantilla	tripulación	marca	[UNK]	carrera	orquesta	empresa	cadena	armada	serie	dorsal	moto	plaza	competición
+muerte	fallecimiento	retiro	nombramiento	dimisión	retirada	independencia	desaparición	marcha	asesinato	vejez	disolución	enfermedad	graduación	renuncia	[UNK]	extinción
+coincide	acumula	concluye	continúa	continua	alterna	conjunta	hace	cuenta	repite	conlleva	colabora	mezcla	amplía	cumple	junto
+exitosa	polémica	famosa	popular	clásica	magnífica	reconocida	maravillosa	histórica	conocida	célebre	extensa	brillante	celebrada	dramática	nueva
+fuerte	duro	valiente	poderoso	joven	grande	noble	hermoso	elegante	pequeño	viejo	orgulloso	apuesto	rudo	bello	fino	tierno	sabio	salvaje	alto	inteligente	astuto	encantador
+fuerte	fino	veloz	joven	sólido	tierno	débil	atractivo	poderoso	noble	hermoso	elegante	rápido	potente
+fichó	estuvo	jugó	debutó	entró	firmó	permaneció	,	continuó	pasó	volvió	actuó	regresó	fue	quedó	ficha
+renovación	reforma	reorganización	transformación	modernización	adaptación	modificación	cambio	revisión	fortalecimiento	diversificación	mantenimiento	actualización	reestructura	[UNK]	consolidación	modificaciones
+familia	sangre	[UNK]	origen	nacimiento	provincia	generación	linaje	sucesión	antepasados	ascendencia	descendencia	culto	clase	raza	honor	edad	tribu	procedencia
+compensación	pensión	importe	reparación	pago	remuneración	precio	pena	sanción	satisfacción	liquidación	reclamación	multa	reconocimiento	contrapartida	premio
+equipo	escenario	escena	repertorio	programa	reparto	pantalla	espectáculo	continuidad	espacio	teatro	cartel	rol	drama	actuación	pareja	set	horario	cine	vestuario	conjunto	roles
+aprueba	autoriza	reconoce	apoya	acredita	programa	designa	confirma	autorizó	alienta	apoyo	asegura	aprobó	potencia	ratific	acepta
+famosos	clásicos	destacados	representativos	conocidos	importantes	típicos	significativos	esenciales	diversos	populares	relevantes	concretos	reconocidos	dispares
+libro	novela	revista	periódico	cuentos	crítica	lujo	diario	bolsillo	manuscrito	ficción	tomo	cuento	ensayo	suplemento	colección	cuaderno	ejemplar	seria	volumen	papel	reportaje	verso
+lugar	sitio	ámbito	entorno	centro	situado	solar	recinto	suelo	terreno	planteamiento	apartado	trazado	aparcamiento	término	destino	yacimiento	trayecto
+europeo	moderno	occidental	americano	hispano	británico	árabe	estadounidense	latino	italiano	industrial	japonés	español	alemán	australiano	actual	internacional	norteamericano	asiático	inglés	[UNK]	chino	digital
+disolver	preparada	desarrollarse	verde	.	caliente	recuperarse	entera	reaccionar	enfri	calentar	madura	co	libre	fresca	curar	normal
+música	iglesia	fiesta	oración	misa	Biblia	Navidad	melodía	fe	poesía	celebración	Iglesia	Misa	ceremonia	vida	enseñanza	obra	tradición	escritura	religión
+instrumentos	[UNK]	poemas	fragmentos	versos	acordes	temas	textos	compositores	elementos	vocales	motivos	músicos	cantantes	sonidos	musicales	ritmos
+alterna	coincide	colabora	,	combina	y	finaliza	termina	junto	es	cuenta	[UNK]	concluye	completa
+jugó	pasó	disputó	desarrolló	actuó	permaneció	estuvo	ocupó	desempeñó	vivió	luchó	realizó
+obtuvo	consiguió	logró	tuvo	alcanzó	conoció	recibió	obtuvieron	adquirió	celebró	realizó	registró	produjo	vivió	anotó	sufrió	experimentó	disputó
+ligas	partes	prestaciones	selecciones	épocas	temporadas	divisiones	campañas	medias	bandas	cosas	filas	defensas	actuaciones	batallas	promesas	caras
+deportivo	temático	informativo	documental	cultural	educativo	histórico	general	innovador	especializado	formativo	comercial	docente	científico	experimental	social	propio	crítico	profesional	institucional	académico	político	público
+titular	provisional	suplente	libre	despedido	fijo	contratado	adjunto	auxiliar	sustituto	temporal	principal	asistente	técnico	designado	ejecutivo	permanente	nuevo
+tiempo	movimiento	ritmo	potencial	impulso	peso	instante	volumen	ángulo	flujo	punto	giro	reloj	estado	aceleración	periodo	período	signo	[UNK]	símbolo	pulso	desplazamiento	equilibrio	cambio
+terminología	versión	forma	expresión	definición	ocasión	interpretación	opinión	categoría	lengua	frase	parte	dirección	figura	traducción	hipótesis	situación	palabra	alternativa	extensión	manera	denominación	variante	voz	lectura	descripción
+diosa	figura	persona	divin	Dios	dios	personalidad	serpiente	entidad	cabeza	fuente	de	estrella	manifestación	criatura	ciudad	cosa	religión	estatua	leyenda	imagen	señora	gran
+alterna	disputó	desarrolló	jugó	unió	integró	mezcla	jugaba	inició	abandonó	altern	hizo	realizó	[UNK]
+burguesía	nobleza	Iglesia	ciudad	dictadura	corona	monarquía	élite	democracia	familia	corrupción	administración	propiedad	Corona	revolución	industria	República	comunidad	iglesia	clase	minería	minoría
+definición	versión	expresión	traducción	edición	forma	denominación	interpretación	utilización	vez	formulación	explicación	redacción	descripción	frase	cita	variante	modificación	lectura	aparición	presentación	revisión	aplicación	aprobación	categoría
+[UNK]	pantano	cerro	pozo	estero	campo	arroyo	estanque	río	embalse	lago	molino	pueblo	valle	desierto	camino	bosque
+retablo	mural	mobiliario	escudo	fresco	azul	conjunto	hierro	altar	órgano	cristal	panel	cuadro	vano	techo	tejado
+populares	tradicionales	históricos	antiguos	religiosos	cristianos	escritos	clásicos	modernos	reales	originales	católicos	contemporáneos	orales	actuales	anteriores	aborígenes	locales	indígenas	mencionados
+atacando	ya	también	ahora	y	todos	aún	avanzando	ambos	pero	derrotados	haciéndolo	igualmente	asimismo	no	nuevamente	incluso	finalmente	actualmente	así	todavía	entrando	hoy	siempre
+humedad	limpieza	higiene	contaminación	sanidad	inundación	agua	aguas	seguridad	población	drenaje	infraestructura	saneamiento	abandono	sequía	conservación	calidad	urbanización	gestión
+famoso	conocido	destacado	destaca	recordado	famosa	popular	notable	inmortal	destacando	distinguido	caracterizado	denominado	reconocido	destacó	conocida	señalado	fallecido
+importantes	grandes	poderosas	famosas	brillantes	reconocidas	populares	relevantes	notables	destacadas	conocidas	hermosas	fuertes	jóvenes	bellas	altas	antiguas
+playas	formaciones	du	costas	piedras	colinas	barreras	tierras	paredes	islas	masas	tormentas	matas	camas	lagunas	extensiones
+hijos	descendientes	nietos	varones	herederos	esposas	hermanas	hijas	bastardos	sobrevivientes	hermanos	cónyuges	amantes
+junto	conjuntamente	simultáneamente	conjunta	oficialmente	actualmente	conjunto	individualmente	directamente	formalmente	históricamente	también	socialmente	principalmente	generalmente	compartida	compartido
+entero	vecina	vecino	cercano	próximo	vecinos	anterior	local	principal	opuesto	posterior	exterior	rural	asociado	siguiente	alrededor	cerca	inmediato	mismo	alejado	propio	restante	occidental	actual
+salud	fertilidad	justicia	sabiduría	pureza	belleza	juventud	fuerza	naturaleza	paz	inocencia	honestidad	nobleza	libertad	gracia	felicidad	verdad	victoria	fidelidad	bondad	[UNK]
+amable	bueno	generoso	justo	tierno	paciente	gentil	eterno	sabio	injusto	cruel	amor	pacífico	bondad	santo	fiel	dulce	inocente	profundo	hermoso	agradable	amado
+desastres	tormentas	daños	peligros	fenómenos	inundaciones	anomalías	desastre	crisis	acontecimientos	males	terremotos	disturbios	sucesos	guerras
+alias	títulos	[UNK]	,	apellidos	ps	nombres	nombre	géneros	personajes	estilos	se	términos	medios	modelos	guiones	perfiles	autores
+ignorancia	ironía	mentira	injusticia	ilusión	ilusiones	intimidación	inteligencia	engaño	ingenio	imitación	inocencia	intención	inseguridad	intolerancia	ira	información
+divertida	tranquila	amable	sencilla	alegre	inteligente	encantadora	fría	arrogante	solitaria	joven	agresiva	linda	tonta	hermosa	bonita	atractiva
+importantes	reconocidos	representativos	famosos	destacados	grandes	antiguos	significativos	clásicos	vendidos	recientes	conocidos	originales	populares	notables	tradicionales	completos	viejos
+formación	banda	familia	parte	voz	entrada	pareja	agrupación	congregación	[UNK]	generación	pandilla	configuración	fusión	combinación	tripulación	línea	unidad	salida	batería	unión
+[UNK]	judíos	demonios	ladrones	santos	turcos	musulmanes	pecadores	rebeldes	romanos	cristianos	terroristas	piratas	comunistas	creyentes	católicos	discípulos
+grupo	linaje	núcleo	clan	trío	resto	territorio	reino	pueblo	par	complejo	puñado	archipiélago	poblado	orden	asentamiento	sistema	número	compuesto
+cuenca	boca	orilla	ribera	zona	fuente	orillas	cabecera	margen	entrada	costa	corriente	punta	salida	línea	bahía	región	cima	solución	terminal	base	altura	playa	toma
+categoría	diócesis	provincia	parroquia	zona	región	comunidad	comuna	vecindad	dependencia	audiencia	demarcación	competencia	justicia	villa	aldea	parte	autoridad	junta	doctrina	propiedad	relación	comarca
+emisiones	producciones	señales	ediciones	ondas	operaciones	frecuencias	acciones	temporadas	comunicaciones	actividades	estaciones	comerciales	grabaciones	mediciones	etapas	concesiones	noticias	sesiones
+niños	jóvenes	adultos	niñas	estudiantes	padres	pueblo	masas	familia	primaria	adolescentes	alumnos	hijos	menores	familias	secundaria	[UNK]	chicos	campesinos	campo	hogares	pueblos	profesores	varones	bachillerato
+ciudad	zona	localidad	población	villa	parroquia	fracción	provincia	aldea	cabecera	estación	gente	mano	república	iglesia	región	jurisdicción	vecina	banda	capital	colonia	cuenca	sociedad	avenida	voz
+seres	extraterrestres	monstruos	criaturas	habitantes	humanos	personajes	individuos	visitantes	extranjeros	robots	demonios	nativos	animales	ellos	[UNK]	hombres	los	mundos
+origen	uso	conocimiento	interés	apoyo	recuerdo	prestigio	vigor	culto	respeto	significado	asentamiento	gusto	éxito	implantación	consumo	cultivo	corte	impacto	popularidad	conocido	establecimiento	reconocimiento	alcance	cariño	oído	popular
+especiales	destacadas	principales	regulares	populares	recientes	infantiles	secundarias	femeninas	estelar	apariciones	también	constantes	,	importantes	originales
+responsabilidad	autonomía	autoridad	posesión	jurisdicción	influencia	potestad	control	independencia	libertad	competencia	titularidad	dominación	participación	poder	dominio	protección	propiedad	victoria	inmunidad	tutela
+solos	[UNK]	originales	clásicos	musicales	,	tradicionales	propios	antiguos	cerrados	electrónicos	libres	nuevos	directos	principales	fijos	eléctricos	modernos
+organizando	tocando	interpretando	preparando	utilizando	cantando	dirigiendo	planeando	creando	grabando
+gran	extensa	famosa	importante	buena	rica	excelente	amplia	antigua	respetable	brillante	poderosa	moderna	conocida	reconocida	notable	larga	destacada	sólida	magnífica
+creadores	compositores	autores	personajes	productores	protagonistas	editores	escritores	ejecutivos	patrocinadores	distribuidores	usuarios	inversores	fundadores	arquitectos	jugadores
+ayude	ayudara	piense	hiciera	educar	conociera	desarrolle	guía	siguiera	convierta	educa	acompañe
+figura	religión	denominación	forma	regla	imagen	leyenda	orden	influencia	marca	tradición	identidad	iglesia	misión	creencia	devoción	protección	categoría	ad	doctrina	nomenclatura	nombre	bandera	inspiración	fe	parroquia
+democráticas	leales	rebeldes	comunistas	militares	socialistas	civiles	francesas	gubernamentales	armadas	nacionalistas	liberales	españolas	populares	locales	policiales	realistas
+ciudad	población	base	villa	colonia	fortaleza	embajada	flota	escuela	prisión	cárcel	capital	avanzada	administración	columna	posición	fuerte	residencia	plaza	escuadra	muralla	polis	armada
+viaje	camino	regreso	recorrido	misión	curso	vuelta	historia	navegación	[UNK]	aventura	trayecto	crucero	expedición	nave	vuelo	presencia	itinerario	exploración	traves	ausencia	encuentro
+esperaban	desean	quieren	querían	deseaba	desea	buscaban	esperan	deseen	solicitan	deseamos	buscan	pedía	piden	pretenden	necesitaban
+acervo	catálogo	legado	elenco	patrimonio	vocabulario	listado	menú	itinerario	inventario	conjunto	registro	programa	archivo	canon	calendario	álbum	espectáculo
+santos	supuestos	personajes	falsos	tres	antiguos	famosos	[UNK]	dioses	llamados	extraños	no	diferentes	auténticos	primeros	verdaderos	únicos	presuntos	mismos	pseudo	nuevos	siete	an	propios	reyes
+misma	vía	carretera	anchura	superficie	pendiente	señal	presa	plataforma	línea	intersección	orilla	curva	longitud	red	distancia	señalización	ruta	recta	tierra	pista	dirección
+recomienda	propone	practica	establece	enseña	favorece	defiende	indica	promueve	utiliza	afirma	apoya	rechaza	sugiere	señala	sostiene	persigue	anuncia	define	considera
+literatura	novela	creación	música	poesía	fotografía	escritura	historia	pintura	ficción	lectura	docencia	educación	filosofía	crítica	danza	arquitectura	cultura	comunicación	televisión	enseñanza	crónica	edición	pasión	ciencia	Literatura	composición	entrevista
+jóvenes	brillantes	expertos	grandes	complejos	hábiles	poderosos	eficaces	competentes	veteranos	flexibles	modernos	destacados	rápidos
+líder	específico	importante	símbolo	responsable	originario	tradicional	original	oficial	guerrero	principal	legítimo	proveniente	luchador	típico	derivado	heredero	único	procedente
+muertos	heridos	daños	desaparecidos	desplazados	.	sobrevivientes	lesiones	disparos	pérdidas	detenidos	muertes	molestias	bajas	víctimas	leves	perjuicios
+áreas	paredes	casas	rocas	profundidades	direcciones	carreteras	playas	zonas	minas	costas	cuevas	explotaciones	tumbas	heridas	parcelas	fallas	localidades	excavaciones
+culto	honor	reconocimiento	recuerdo	tributo	funeral	aniversario	fallecimiento	premio	saludo	monumento	adiós	agradecimiento	apoyo	legado	viaje	regreso	ataque	[UNK]	respeto	juicio	año
+preparación	refrigeración	conservación	seca	compresión	mezcla	frío	presión	fresco	curación	fusión	cocina	vapor	temperatura	seco	congelación	agua	extracción	calentamiento
+desempeñar	asumir	ocupar	encargarse	darle	tener	ser	darse	encargar	ocuparse	ejercer	entregar	hacerse	recibir	solicitar	ceder
+rechazada	querida	vista	tratada	mencionada	utilizada	protegida	amada	asesinada	seguida	recibida
+[UNK]	cine	anime	universo	juego	libro	videojuego	CD	serie	tira	género	cielo	tomo	drama	videojuegos	teatro	canon	cuento	álbum	japonés	relato	escritor	programa
+importantes	famosos	destacados	significativos	notables	representativos	antiguos	interesantes	conocidos	ricos	grandes	relevantes	valiosos	bonitos	hermosos
+conjuntos	edificios	templos	museos	núcleos	lugares	sitios	elementos	entornos	ejemplos	centros	espacios	inmuebles	pueblos	poblados	bienes	ambientes	casos
+fundamental	concretamente	especialmente	actualmente	esencialmente	preferentemente	específicamente	generalmente	particularmente	frecuentemente	básicamente	posteriormente	exclusivamente	finalmente	también	nuevamente	definitivamente	predominante	habitualmente	anteriormente
+anunciar	nombrar	reconocer	ampliar	reemplazar	designar	fundar	crear	distinguir	identificar	celebrar	vender	adoptar	descubrir	publicar	proteger	sustituir	actualizar	salvar	cubrir
+basándose	haciéndolo	así	incluidos	convirtiéndose	cambiando	como	apareciendo	basados	basado	comenzando	resultando	jugando	ganando	establecidos	transformados	participando
+frecuente	habitual	inusual	aceptable	raro	deseable	común	posible	sorprendente	familiar	usual	válida	extraño	necesario	relevante	útil	necesaria	evidente	normal
+definida	jugando	haciéndose	eliminados	cayendo	así	avanzando	dividida	[UNK]	finalmente	convirtiéndose	eliminado	integrada
+condes	monjes	obispos	caballeros	sacerdotes	nobles	señores	administradores	santos	príncipes	estudiantes	fieles	sabios	habitantes	miembros	ancianos	jóvenes	hombres	peregrinos
+bendición	ordenación	restauración	clausura	apertura	aprobación	dedicación	inauguración	reforma	edificación	fundación	visita	elección	renovación	reconstrucción	iglesia	transformación	celebración	finalización	ceremonia
+defensa	protección	negación	violación	excepción	privación	recuperación	reducción	garantía	represión	renuncia	Defensa	anulación	aplicación	suspensión	revocación	ausencia
+originalmente	anteriormente	inicialmente	le	siempre	históricamente	posteriormente	tradicional	actualmente	definitivamente	recientemente	hoy	habitualmente	finalmente	antes	luego	entonces	también	[UNK]	después	previamente	ya	no	antigua	les	realmente
+nombre	terreno	origen	poblado	apellido	epíteto	carácter	emplazamiento	término	territorio	relieve	lugar	paisaje	título	pueblo	asentamiento	termino	aspecto	linaje
+sentencia	autonomía	autoridad	justicia	[UNK]	ley	mandato	zona	aldea	privilegio	potestad	dominio	municipio	derecho	comunidad	dependencia	aduana	ella	decisión	merced	parroquia	categoría
+parroquia	aldea	villa	pueblo	localidad	municipio	comunidad	propiedad	ayuntamiento	barrio	comuna	cabecera	concejo	población	dependiente	lugar	dependencia	núcleo
+centrada	integrada	especializada	basada	descrita	representada	comprendida	concretamente	dividida	clasificada	desarrollada	situada
+construido	,	fabricado	producido	de	escrito	comprendido	fecha	hallado	localizado	registrado	hecho	situado	realizado	grabado	formado	encontrado	compuesto	contenido	pintado	existente
+restos	rastros	trozos	ecos	partes	ruinas	pedazos	elementos	muestras	residuos	fósiles	indicios	huesos	imágenes	detalles	huellas	piezas	copias
+pilares	enfoques	aspectos	partes	fases	niveles	ámbitos	principios	capas	líneas	visiones	orientaciones	ejes	fuentes	vías	dimensiones	fachadas	formas	elementos	etapas	componentes	órdenes
+moderada	crítica	abierta	radical	revolucionaria	activa	popular	avanzada	simple	agresiva	comprometida	determinada	nacionalista	coherente	fuerte	amplia	liberal	visible	encendida
+empresa	banda	compañía	editorial	multinacional	productora	firma	música	imprenta	agencia	[UNK]	colección	grabación	sello	placa	cantante	casa	etiqueta	revista	radio	tienda	fundación	Records
+rebelde	inocente	pobre	único	adorable	buen	dulce	pequeño	joven	celoso	torpe	orgulloso	nuevo	fracasado	triste	patético	guapo	tonto	egoísta	peor	cuarto
+agua	pendiente	inundación	caudal	profundidad	vegetación	cuenca	drenaje	humedad	corriente	gravedad	riego	lluvia	tierra	roca	arcilla	altura	arena
+azufre	hierba	mercurio	arena	arcilla	agua	sal	pólvora	humo	sangre	fuego	[UNK]	barro	plomo	niebla	oro	cal
+intolerancia	igualdad	prejuicios	odio	racismo	diferencias	desigualdad	xenofobia	desigualdades	diferencia	estereotipos	desprecio	violencia	barreras	controversia	rechazo	división	confusión
+lluvia	lluvias	temperaturas	agua	inundaciones	sequía	riego	cultivos	tormentas	temperatura	cosechas	aguas	pérdidas	vientos	nieve	medias	humedad
+mayormente	actualmente	generalmente	únicamente	básicamente	esencialmente	exclusivamente	enteramente	también	especialmente	predominante	preferentemente	solamente	históricamente	particularmente	normalmente	frecuentemente	igualmente	asimismo	típicamente	fundamental	habitualmente
+ropa	identidad	vida	figura	estética	prenda	moda	piel	camiseta	alimentación	confección	camisa	danza	armadura	personalidad	artesanía	imagen	vesti	cultura
+situación	continuación	razón	cesación	duración	hora	posición	conclusión	terminación	localización	suspensión	finalización	ruptura	extensión	evolución	resolución	interrupción	fecha	relación	dirección	cifra	naturaleza	causa	intensidad	final
+operaciones	combates	conversaciones	comunicaciones	batallas	negociaciones	acciones	relaciones	obras	transmisiones	mismas	sesiones	tareas	luchas	actividades	intervenciones	celebraciones	reparaciones	contienda	elecciones
+mostrando	presentando	y	representando	destacando	realizando	trayendo	con	ofreciendo	participando	llevando	acompañan	interpretando	contando	siendo	tocando	manteniendo	bailando
+específicas	determinadas	mixtas	rurales	frecuente	frecuentes	distintas	urbanas	comunes	costeras	comunitarias	concretas	oscuras	geográficas
+región	si	solo	humedad	actividad	terremotos	radio	historia	terremoto	sólo	área	evolución	aus	temperatura	razón	contaminación	frecuente	frecuencia	zona	enfermedad	solamente	acústica	industria	estadística	violencia
+puertas	columnas	ventanas	pilares	bancos	arcos	cortinas	escaleras	fachadas	pisos	esculturas
+vecinos	habitantes	visitantes	espectadores	turistas	campesinos	fieles	peregrinos	clientes	pobladores	jardines	viajeros	extranjeros	invitados	usuarios	residentes	ciudadanos	pasajeros	niños	comerciantes	huéspedes
+guarnición	población	infantería	comunidad	armada	policía	mayoría	resistencia	organización	gente	etnia	rama	[UNK]	fuerza	juventud	coalición	seguridad	unidad	tropa	aldea	defensa	guardia	familia
+agrarias	socialistas	liberales	políticas	conservadores	religiosas	realistas	liberal	antiguas	radicales	conservador	industriales	nacionalistas	parlamentarias	demócratas	económicas	comunistas	democráticas	modernas
+socialistas	aduaneras	[UNK]	administrativas	comunistas	democráticas	financieras	comerciales	políticas	liberales	sindicales	nacionalistas
+represión	esclavitud	presión	resistencia	dominación	supresión	explotación	lucha	oposición	dictadura	captura	persecución	censura	libertad	sujeción	violencia	protección	liberación	discriminación	prisión	ocupación	amenaza	vigilancia	prohibición	tortura	rebelión
+moscas	gusanos	insectos	hormigas	esclavos	huevos	muertos	víctimas	hembras	arañas	células	huéspedes	animales	machos	aves
+poderes	libertades	funciones	disposiciones	competencias	autorizaciones	atribuciones	leyes	autoridades	instituciones	medidas	licencias	opciones	oportunidades	posibilidades	autoridad	instrucciones	audiencias	elecciones	poder	capacidades	concesiones	jurisdicciones	obligaciones
+pueblo	arroyo	sitio	sector	cerro	espacio	poblado	monte	campo	barrio	lugar	Cerro	bosque	municipio	rancho	territorio	terreno	término	denominado	conjunto	río	estero	asentamiento
+contribuciones	donaciones	intervenciones	subvenciones	participaciones	prestaciones	inversiones	obras	ayudas	iniciativas	actuaciones	adquisiciones	sugerencias	labores	actividades
+barrio	pueblo	vecindario	distrito	municipio	[UNK]	condado	campus	parque	ayuntamiento	aeropuerto	poblado	centro	campo	metro	norte	área	núcleo	bosque	valle	oeste	hospital	estadio	sur	sector	villa
+soldados	esclavos	tropas	milicias	combatientes	voluntarios	caballería	guerreros	ejército	guardias	ciudadanos	marineros	expertos	ejércitos	militares	veteranos	milicia
+presentes	conocidas	frecuentes	generalizada	comunes	conocida	extendida	importantes	establecidas	importante	antiguas	populares	antigua	destacadas	numerosas	presente	desarrolladas	reconocidas
+poblaciones	aldeas	casas	tierras	torres	zonas	familias	gentes	propiedades	granjas	ruinas	localidades	parroquias	fincas	cuevas	plazas	viviendas
+intérprete	artista	vocalista	actriz	escritora	solista	voz	autora	discográfica	estrella	pianista	banda	productora	compositor	músico
+integrar	formar	reforzar	por	ser	vestir	jugar	entrenar	defender	en	dirigir	ocupar	renovar	fortalecer	disputar	completar	sumar	armar	unir	a
+productor	operador	conductor	presentador	técnico	director	periodista	actor	receptor	artista	programa	crítico	colaborador	cantante	ingeniero	creador	profesor	reportero	empresario	jefe	guionista	editor	agente	hombre
+artista	poeta	bailarina	cantante	dama	pianista	periodista	princesa	investigadora	maestra	santa	actriz	músico	escritora	amante	escultor	pintor	científica	intelectual
+llamados	santos	falsos	no	tres	antiguos	supuestos	[UNK]	dioses	personajes	nuevos	ángeles	famosos	auténticos	verdaderos	pseudo	siete	propios	primeros	presuntos	únicos	mismos	nombres	reyes	extraños
+separación	disolución	fusión	unificación	ruptura	derrota	integración	división	transformación	crisis	reforma	[UNK]	reorganización	unión	fractura	independencia	formación	desaparición
+científico	revolucionario	líder	práctico	fundador	desarrollo	creador	padre	filósofo	teórico	explorador	práctica	dirigente	promotor	directivo	empresario	director	profesional	rama	técnico	académico	general	maestro	amante
+descenso	caída	vejez	juventud	debut	pérdida	reinado	carrera	regreso	victoria	muerte	historia	derrota	ausencia	retiro	progreso	desaparición	deterioro	abandono	[UNK]	crecimiento	ascenso	retirada
+persigue	amenaza	ataca	afecta	domina	aparece	viene	ronda	llega	alcanza	rodea	llama	asusta	golpea	pasa	alerta	sigue	vigila	asciende
+creía	pensaba	suponía	temía	jugaba	cree	sospecha	pretendía	sabía	contaba	comenta	conocía	consideraba	imaginaba	pensó	supo	sentía
+impulso	triunfo	rencor	interés	empeño	maltrato	compromiso	temor	apoyo	descontento	sacrificio	éxito	malestar	peligro	dolor	fracaso	trabajo	estrés	engaño	esfuerzo	agotamiento	cariño
+acusado	preso	involucrado	condenado	encarcelado	metido	detenido	procesado	arrestado	investigado	presente
+modelo	[UNK]	italiana	actriz	ex	argentina	brasileña	cantante	japonesa	estadounidense	Dra	c	mujer	dra	bailarina	M	belleza	mexicana	n	.	artista
+difusión	influencia	popularidad	publicidad	acogida	fama	aceptación	audiencia	promoción	resonancia	polémica	crítica	sensación	atención	cobertura	controversia	presencia	producción	relevancia	recaudación	recepción
+exitoso	destacado	gran	importante	distinguido	brillante	notable	innovador	creativo	joven	famoso	ambicioso	rico	singular	reconocido	respetado	emocionante
+embajada	plaza	expedición	población	resistencia	flota	fortaleza	escolta	escuadra	columna	tropa	unidad	avanzada	infantería	patrulla	armada	milicia	fracción	base	fuerza
+cruel	agresivo	violento	decidido	furioso	enojado	fuerte	hostil	enfadado	rebelde	feroz	brutal	severo	frío
+fallecimiento	arresto	juicio	exilio	enjuiciamiento	suicidio	secuestro	asesinato	prisión	procesamiento	escape	retiro	aislamiento	nacimiento	abandono	regreso	descubrimiento	castigo	final	divorcio	detención	crimen
+orientales	religiosos	cristianos	latinos	italianos	tradicionales	griegos	occidentales	musicales	clásicos	rituales	contemporáneos	populares	[UNK]	interiores
+remota	distinta	variable	desconocida	segura	cercana	tardía	conocida	irregular	desconocido	improbable	diferente	antigua	distante	clara	alternativa	reciente	similar	aproximada
+dolor	espinas	[UNK]	herida	agujero	molestia	relieve	enfermedad	cicatriz	lesión	piel	hueco	lugar	grano	piedra	sal	hueso	distinción
+profundidad	profundo	raíz	sal	nariz	[UNK]	herida	gravedad	altura	fortaleza	inflamación	enfermedad	relieve	espada	apariencia	planta	grandeza	corte	sangre	dolor	sustancia	infección	salud	sombra
+establecidos	identificados	certificados
+distinguido	nombrado	honrado	herido	ascendido	capturado	reconocido	recibido	famoso	ordenado	promovido	destacado	acreditado	seleccionado	pagado
+coraje	valentía	valor	rapidez	liderazgo	fortaleza	determinación	habilidad	constancia	sacrificio	firmeza	nobleza	honor	precisión	lucha	resistencia	eficacia	previsión	victoria	velocidad	éxito	fuerza	decisión
+clásica	simple	tradicional	conceptual	sencilla	mínima	primitiva	básica	compleja	realista	completa	estética	racional	original	lineal	sutil	histórica
+simples	ru	sencillos	escasos	irregulares	básicos	fuertes	sólidos	complejos	débiles
+castigos	restricciones	multas	acusaciones	penas	condenas	repercusiones	consecuencias	críticas	medidas	infracciones	correcciones	lesiones	indemnizaciones	sentencias	castigo	detenciones	embargo
+[UNK]	profesional	competición	circuito	ciclismo	descenso	competencia	velocidad	fútbol	liga	desarrollo	exhibición	deporte	campeonato	juego	aficionados	rugby	patrocinio
+región	zona	provincia	categoría	tierra	demarcación	partida	banda	jurisdicción	cuenca	llanura	agrupación	parte	Región	[UNK]	familia	sierra
+violaciones	victorias	quejas	muertes	derrotas	incursiones	intervenciones	divisiones	reclamaciones	pérdidas	faltas	acciones	tropas	elecciones	derrota	guerras
+asesinados	ejecutados	muertos	capturados	vendidos	destruidos	liberados	derrotados	arrestados
+establecieron	ba	cambiaron	consiguieron	ganaron	mantuvieron	lograron	alcanzaron	firmaron	convirtieron	registraron	obtuvieron
+democrática	secreta	civil	militar	parlamentaria	liberal	noble	casta	imperial	honorable	.	mixta	oficial	compleja	pacífica	independiente	política	real	tradicional	[UNK]
+muerte	pérdida	traición	derrota	rebelión	retirada	rendición	renuncia	fuga	expulsión	falta	emboscada	ausencia	resistencia	partida	perdida	captura	vuelta	respuesta	salida	emigración	lealtad	fatiga
+zona	parte	sierra	falda	cuenca	cumbre	cima	cara	montaña	lad	altura	senda	cordillera	base	pendiente	costa	terraza	fachada	región
+goza	dispone	sea	goce	posee	es	objeto	iniciado	hecho	consta	siendo	contado	dado	exista	do	recibido	tiene	realizado	disfruta	fuera	tenido	disponga	existe	fuese
+hermosas	increíbles	grandes	nuevas	enormes	familiares	maravillosas	preciosas	ricas	propias	locas	antiguas	bonitas	viejas	raras	dulces	poderosas
+historia	victoria	guerra	campaña	acción	lucha	batalla	derrota	ges	conquista	leyenda	contienda	obra	tragedia	jornada	aventura	época	carrera	vida	valentía	gloria	expedición	ocasión	saga
+paneles	frescos	grabados	escudos	vasos	sellos	monumentos	textos	dibujos	documentos	muros	objetos	pilares	planos	soportes
+bancos	canales	edificios	asientos	paneles	suelos	foros	vuelos	motores	planos	cables	puestos	soportes	espacios	muros	terrenos	cielos
+unión	integración	combinación	mezcla	unificación	separación	creación	intersección	división	disolución	incorporación	alianza	asociación	consolidación	adición	ruptura	convergencia	reunión	eliminación
+jugó	permaneció	ejerció	finalizó	tuvo	participó	desempeñó	pasó	mantuvo	actuó	duró	corrió
+altas	elevadas	profundas	hermosas	suaves	bajas	aisladas	abiertas
+define	describe	modifica	distribuye	conserva	escribe	organiza	detalla	procede	lee	completa	desarrolla	divide	desarrolló	presenta	representa
+finalmente	también	especialmente	posteriormente	además	particularmente	generalmente	principalmente	necesariamente	obviamente	eventualmente	sucesivamente	ciertamente	luego	específicamente	actualmente	definitivamente	habitualmente	asimismo	normalmente	anteriormente	precisamente	preferentemente	posiblemente	simultáneamente
+quemó	destruyó	construyó	instaló	hizo	rompió	perdió	mantuvo	añadió	levantó	retiró	vendió	cerró	fundó
+designado	jurado	consejero	asesor	diputado	ministro	juzgado	secretario	asignado	nominado	encargado	nombrado	comisario	comisionado	dirigente	gobernador	representante	juez	supervisor	agente
+habilidad	velocidad	talento	flexibilidad	belleza	potencia	facilidad	estilo	poder	personalidad	rapidez	voz	fuerza	dominio	gracia	cuerpo	creatividad	resistencia	atractivo	pasión	capacidad	técnica	claridad	inteligencia	presencia	energía	altura	variedad
+arco	rayo	[UNK]	espada	martillo	lanza	casco	caballo	flecha	arma	torre	.	bastón	escudo	armadura	hacha	dedo	cabeza	corazón
+boca	cabecera	entrada	ribera	margen	orilla	corriente	garganta	cuenca	presa	inundación	caída	nacimiento	fuente	cabeza	base	terminal	intersección	izquierda	salida	caudal	afluente
+realismo	eje	dibujo	corte	relieve	diseño	perfil	centro	soporte	cuerpo	detalle	color	tratamiento	lujo	trabajo	resto	ataque	retablo	equilibrio	escudo	toque	marco	impacto	tema	frontal	esquema
+acuerdo	tratado	conflicto	proceso	asedio	convenio	pacto	referéndum	congreso	combate	golpe	enfrentamiento	ataque	atentado	hecho	triunfo	decreto	genocidio	duelo	bombardeo	día	encuentro
+especiales	extraordinarias	físicas	superiores	humanas	avanzadas	mentales	espaciales	.	únicas	excepcionales	increíbles	espirituales	mortales
+carros	campeones	[UNK]	toros	barcos	caballos	oro	talentos	triunfo	obstáculos	carreras	bicicletas	ganadores	botes	coches	estrellas	plata	héroes
+zonas	regiones	cuencas	provincias	áreas	montañas	tierras	poblaciones	localidades	partes	décadas	Cataluña	variedades	explotaciones	entidades	fincas
+considere	trate	tenga	reconozca	presente	conozca	acredite	sepa	incluya	mantenga	vea	llame	encuentre	descubra	proteja
+mundo	pueblo	país	universo	calendario	Imperio	barrio	sistema	estado	imperio	reino	[UNK]	idioma	dios	grupo	período	canon	arte	templo	cementerio	linaje	teatro	género	culto	periodo
+punto	desarrollo	tope	máximo	final	pico	fin	foco	centro	nivel	límite	esplendor	fondo	[UNK]	auge	extremo	término	momento	borde	principio	origen
+muerte	futuro	tiempo	fondo	favor	veces	plazo	menudo	distancia	conveniencia	sangre	morir	continuidad	continuo	continua	[UNK]	causa	fallecimiento	continuación	diario	facto	propósito	cero
+mujer	actriz	estrella	pareja	persona	modelo	voz	chica	integrante	productora	bailarina	cantante	compañera	figura	personalidad	animado	participante	animación	versión	protagonista	periodista
+tradiciones	iglesias	enseñanzas	creencias	parroquias	religiones	prácticas	jurisdicciones	comunidades	templos	denominaciones	Iglesias	áreas	actividades	posiciones	diócesis	misiones	ideas	divisiones	vidas
+publicada	lanzada	modificada	incluida	revisada	portada	actualizada	editado	ampliada	grabada
+roto	no	real	metálico	inestable	falso	también	brillante	invisible	sólido	armado	simple	pequeño	,	negro	suelto	gigante	nuevo	elevado	blanco
+fecha	procedencia	autenticidad	época	edad	forma	existencia	localización	naturaleza	relación	cantidad	ubicación	composición	secuencia	[UNK]	calidad	firma	talla	colocación	presencia	hora	determinación	técnica
+destruyó	detuvo	mató	venció	asesinó	terminó	instaló	cambió	sucedió
+zona	región	provincia	localidad	llanura	agrupación	parte	sección	estadística	situación	categoría	demarcación	banda	entidad	jurisdicción	aldea	subregi	España	delimitación	parroquia
+serie	lista	cadena	sucesión	colección	síntesis	combinación	compilación	historia	simulación	repetición	guía	saga	selección	muestra	parte	clasificación	crónica	mezcla	recopilación	suma	programación
+hechos	tiempos	eventos	resultados	momentos	sucesos	días	episodios	espectáculos	encuentros	participantes	jugadores	elementos	personajes	actos	espectadores	accidentes	protagonistas	atletas	movimientos	noticias
+aportación	dimensión	modalidad	ámbito	aspecto	planteamiento	sector	rama	variante	evolución	fase	apartado	temática	finalidad	parte	sección	plataforma	perspectiva
+bloqueado	interrumpido	bloqueo	vencido	destruido	detenido	suspendido	impedido	parado	cortado	retrasado
+victoria	debut	fin	rival	meta	regreso	estreno	momento	objetivo	final	título	reconocimiento	vuelta	retirada	participación	éxito	triunfo	oro	fama	aparición	medalla	resultado	[UNK]	gloria	lugar	actuación
+terrible	fuerte	trágico	violento	gran	poderoso	nuevo	potente	dramático	horrible	reciente	grave	enorme	fatal	terremoto	segundo	aterrador	espantoso
+instrumental	musical	romántico	espiritual	dramático	pop	gráfico	visual	religioso	temático	psicológico	emocional	sentimental	coral	sencillo	histórico
+idéntica	similar	anterior	análoga	igual	equivalente	parecida	diferente	distinta	posterior	semejante	paralela	idéntico	inversa	contraria	simultánea	próxima	comparable
+desarrollo	caída	auge	crecimiento	descenso	recuperación	prosperidad	desaparición	abandono	reconversión	expansión	recesión	crisis	disminución	colapso	ruina	deterioro	pérdida	destrucción	esplendor
+destruido	seco	vacío	arruinado	dañado	bloqueado	destrozado	desierto	aislado	descubierto	agotado	abandonado	cerrado	afectado	lleno	cubierto
+territorio	parte	reino	señor	posesión	dominio	propiedad	patrimonio	príncipe	título	duque	miembro	provincia	colonia	soberano	residencia	condado	orden	fe	estado	legado	castillo	gobierno	corte	[UNK]	heredero	fortaleza
+posición	asentamiento	ubicación	núcleo	localización	emplazamiento	territorio	localidad	centro	situación	zona	establecimiento	sitio	residencia	asiento	lugar	puesto	yacimiento	hábitat	población	origen	municipio	poblado
+música	actuación	canción	escena	interpretación	secuencia	versión	danza	técnica	realización	representación	composición	trama	grabación	presentación	letra	fotografía	producción	animación	imagen	melodía	suite	introducción	ejecución
+debut	carrera	retirada	ascenso	estreno	regreso	reconocimiento	presencia	expansión	llegada	confirmación	aparición	éxito	trayectoria	entrada	ingreso	revelación	salida	explosión	intervención	triunfo	relevo	evolución	lanzamiento	inicio
+pozos	excavaciones	pruebas	investigaciones	exploración	mediciones	túneles	trabajos	estudios	descubrimientos	operaciones	observaciones	análisis	expediciones
+gran	pequeño	amplio	enorme	buen	segundo	nuevo	mismo	extenso	último	alto	modesto	supuesto	hermoso	inmenso	solo	importante	doble	bonito	único	completo	breve	claro	moderno	primer	magnífico
+banda	orquesta	guitarra	pieza	fuente	batería	barra	canción	música	caja	mesa	pista	[UNK]	puerta	acústica	obra	versión	tabla	composición	cafetería	melodía
+principalmente	básicamente	exclusivamente	predominante	preferentemente	esencialmente	generalmente	únicamente	enteramente	totalmente	ampliamente	parcialmente	íntegramente	actualmente	habitualmente	históricamente	comúnmente	prácticamente	también	claramente	especialmente
+vuelta	caída	salida	patada	curva	.	vueltas	rueda	fuga	carrera	ducha	tum	señal	parada	mirada	cara	baja	paliza	caminata	brin
+acreditado	distinguido	reconocido	ascendido	certificado	honrado	herido	recibido	clasificado	nombrado	licenciado	dotado	beneficiado	pagado	destacado	retirado
+acceder	adherirse	recurrir	acudir	optar	atender	enfrentarse	unirse	presentarse	adaptarse	responder	incorporarse	aplicarse	ajustarse	someterse
+amigos	compañeros	hijos	alumnos	seguidores	hermanos	discípulos	enemigos	padres	aliados	estudiantes	descendientes	asistentes	sirvientes	maestros	guerreros	rivales	servidores	hombres
+conoce	escribe	lee	reconoce	interpreta	repite	emplea	usa	deriva	denomina	nombra	identifica	utiliza	describe	cita	representa	refiere	relaciona	define	aplica
+hijo	padre	hermano	sobrino	heredero	abuelo	bebé	nieto	descendiente	menor	cuarto	corazón	tercero	segundo	sucesor	mayor	marido	quinto	fruto	esposo	cuñado
+días	incidentes	tiempo	cosas	hechos	eventos	personas	tiempos	personajes	destinos	sucesos	números	actos	movimientos	elementos	accidentes	circunstancias	episodios	cambios	errores	años	muertes	nombres	momentos	fechas	lugares	resultados
+jugando	ganando	siendo	ocupando	celebrando	obteniendo	con	en	corriendo	juegan	haciendo	manteniendo	utilizando	y	juega	desarrollando	pasando	como	realizando	teniendo	practicando	jugado	dando
+dedicado	referido	debido	idéntico	correspondiente	perteneciente	conforme	diferente	traducido	referida	titulado	similar	idéntica	relativo	asociado	dedicada	interpretando	junto	acorde
+recuperarse	unirse	prepararse	levantarse	retroceder	retirarse	presentarse	someterse	ceder	reaccionar
+renovación	res	compra	descenso	cláusula	extinción	cesión	venta	despido	contrato	suspensión	continuidad	adaptación	revisión	cancelación
+paso	toque	salto	golpe	grito	discurso	punto	motivo	tiro	giro	aplauso	gol	empuje	día	beso	[UNK]	trago	señal	disparo	saludo	abrazo	impulso	aviso	marco
+reyes	gobernantes	reinos	habitantes	gobernadores	sacerdotes	[UNK]	jefes	dioses	funcionarios	miembros	dirigentes	príncipes	pueblos	gobiernos	magistrados	territorios	estados	centros	líderes
+dominación	soberanía	autoridad	autonomía	potencia	jurisdicción	control	domina	monarquía	presencia	dominio	jerarquía	superioridad	influencia	expansión	estabilidad	tutela	responsabilidad	independencia	dominante	prevalencia	posición	posesión
+capturado	cedido	concedido	devuelto	entregado	vendido	adquirido	robado	liberado	secuestrado	vencido
+liberación	derrota	cesión	victoria	salida	entrega	toma	independencia	retirada	caída	paz	recuperación	disolución	pérdida	ocupación	batalla	invasión	guerra	captura	muerte	destrucción	conquista	evacuación
+profundo	inmenso	agudo	auténtico	precoz	propio	increíble	verdadero	peculiar	puro	ardiente	gran	sincero	descubierto	absoluto	natural	infinito	tierno	incondicional	constante	evidente
+sistema	aparato	equipo	instrumento	objeto	mecanismo	artefacto	sensor	modelo	ordenador	elemento	método	componente	producto	vehículo	telescopio	equipamiento	reloj	objetivo	programa	procedimiento
+afortunado	trágico	terrible	lamentable	nuevo	triste	mal	cruel	extraño	miserable	fatal	horrible	pobre	buen	afortunada	hermoso	feliz	curioso	inesperado	malo
+regalo	anillo	libro	espejo	hechizo	reloj	[UNK]	collar	bastón	fragmento	símbolo	objeto	frasco	tesoro	diario	manuscrito	poder	diamante	huevo	corazón
+campesino	comerciante	líder	empresario	granjero	dirigente	señor	noble	hombre	gobernante	jefe	administrador	agrario	propietario	capitalista	obrero	trabajador	industrial	rico	productor	dueño	funcionario	agrícola
+tensiones	perturbaciones	anomalías	fluctuaciones	variables	variaciones	interacciones	fuerzas	combinaciones	alteraciones	ecuaciones	relaciones	vibraciones	corrientes
+posiciones	perturbaciones	ondas	soluciones	tensiones	frecuencias	fluctuaciones	vibraciones	coordenadas	entradas	masas	ecuaciones
+mecánica	manual	automática	inglesa	convencional	térmica	electrónica	auxiliar	dinámica	diferencial	vertical	química	eléctrica	,	lineal	flexible
+amigos	compañeros	aliados	demonios	hombres	seguidores	enemigos	socios	fantasmas	colaboradores	descendientes	discípulos	personajes	asociados	herederos	rivales	criaturas
+alias	epíteto	apellido	apodo	nombre	término	signo	se	sinónimo	título	género	de	falso	carácter	ps	doble	dominio	plural	latín	símbolo
+relación	independencia	fe	vinculación	entidad	influencia	unión	parte	propiedad	autonomía	localidad	diferencia	separación	disposición	unidad	obligación	división	asociación	pertenencia	distancia	población	colaboración	jurisdicción	posesión	comunidad	vecindad	villa
+crítica	diferente	limitada	realista	moderna	artística	positiva	optimista	brillante	profunda	romántica	estética	completa	clara	general	amplia	aguda	nueva	negativa	abierta	alternativa	distinta	oscura	global	radical

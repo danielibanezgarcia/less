@@ -1,0 +1,31 @@
+LightLS
+
+- Word Embeddings: FastText 2000000 300D Cased (https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.es.300.vec.gz)
+- Frequency Library: wordfreq (https://pypi.org/project/wordfreq/)
+- Language Model: Model using 2-grams from Google Books n-grams Spanish 20200217 (http://storage.googleapis.com/books/ngrams/books/20200217/spa/spa-2-ngrams_exports.html)
+
+- Language Model function: For a ngram_size of 2, the window would be [-1 0 1], producing ngrams: [-1 0] and [0 +1]  (best case scenario).
+  The scores for every ngram combination are averaged:
+
+  - If the window is [0 +1]    -> LM_Score = Score([0 +1])
+  - If the window is [-1 0]    -> LM_Score = Score([-1 0])
+  - If the window is [-1 0 +1] -> LM_Score = (Score([-1 0]) + Score([0 +1])) / 2
+
+
+BertLS
+
+- BERT model: dccuchile/bert-base-spanish-wwm-cased (https://huggingface.co/dccuchile). 
+   - There exists an UNCASED model but we are using the cased one lowercasing the tokens (I assume I did that to try and experiment later with cased tokens to see which option worked best, but I ran out of time and never tried it). 
+   - I didn't find a bigger model for dccuchile
+- PPDB: Spanish Lexical XXXL Size (http://nlpgrid.seas.upenn.edu/PPDB/spa/ppdb-1.0-xxxl-lexical.gz)
+- Frequencies: wordfreq (https://pypi.org/project/wordfreq/)
+
+
+
+
+
+
+
+
+
+
